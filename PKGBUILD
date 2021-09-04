@@ -2,8 +2,8 @@
 
 pkgbase=linux-zen-anbox
 pkgver=5.13.13.zen1
-pkgrel=anbox1
-pkgdesc='Linux ZEN'
+pkgrel=1
+pkgdesc='Linux ZEN - modified for anbox support'
 _srctag=v${pkgver%.*}-${pkgver##*.}
 url="https://github.com/zen-kernel/zen-kernel/commits/$_srctag"
 arch=(x86_64)
