@@ -1,7 +1,7 @@
 # Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
 
 pkgbase=linux-zen-anbox
-pkgver=5.13.13.zen1
+pkgver=5.14.2.zen2
 pkgrel=1
 pkgdesc='Linux ZEN - modified for anbox support'
 _srctag=v${pkgver%.*}-${pkgver##*.}
